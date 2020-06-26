@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic-Tac-Toe game used to learn basics of Python using JetBrains Academy
+Tic-Tac-Toe game written to learn basics of Python using JetBrains Academy
